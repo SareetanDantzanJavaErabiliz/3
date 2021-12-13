@@ -5,3 +5,5 @@ Biltegi honetako karpeta bakoitza kapituluko adibide bati dagokio. Hona hemen ad
 - AdinNagusikoa: 83. orr.
 - DantzenIzenak: 85. orr.
 
+| [Liburuaren aurkezpena](https://youtu.be/b7Lp1WZJflE) | [Liburuaren erabilpena](https://youtu.be/xtkatKohanU) |
+| ------------- | ------------- |
